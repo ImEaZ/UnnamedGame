@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - resource
+  - stone
+  - stump
+  - berry
+  - sendToBacker
+  - tree
+  - PlayerItemCollecter
+  - PlayerAttacker
+  - dropBusket
+  - bush
+  - Tiles
+  - enemyAI
+  - halfBtn
+  - enemy
+  - allBtn
+  - enemyDetector
+  - Harvester
+  - PlayerIndicator
+  - TallGrass
+  - FloatingText
+  - LevelUpParticles
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Tile
+  - Environment
+  - Transparenter
+  - Building
+  - 
+  - AstarObstacle
+  - 
+  - 
+  - OnPlayer
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - UIManual
+  - 
+  - FloatingText
+  - itemOnUI
+  - Dialog
+  m_SortingLayers:
+  - name: Ground
+    uniqueID: 1088751647
+    locked: 0
+  - name: Water
+    uniqueID: 2014918589
+    locked: 0
+  - name: Houses
+    uniqueID: 2474095361
+    locked: 0
+  - name: BehindPlayer
+    uniqueID: 2418719493
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Mask
+    uniqueID: 232212507
+    locked: 0
+  - name: Front
+    uniqueID: 2093438689
+    locked: 0
+  - name: PlayerInHosue
+    uniqueID: 3877820151
+    locked: 0
+  - name: InteractImage
+    uniqueID: 2667143183
+    locked: 0
+  - name: NightBG
+    uniqueID: 1533408077
+    locked: 0
+  - name: OnTop
+    uniqueID: 42706853
+    locked: 0

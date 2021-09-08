@@ -1,0 +1,2 @@
+C:\Best\Unity Project\SurvivalGame\obj\Debug\AstarPathfindingProjectEditor.csprojAssemblyReference.cache
+C:\Best\Unity Project\SurvivalGame\obj\Debug\AstarPathfindingProjectEditor.csproj.CoreCompileInputs.cache

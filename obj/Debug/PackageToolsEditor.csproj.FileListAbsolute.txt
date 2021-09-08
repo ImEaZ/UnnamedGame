@@ -1,0 +1,2 @@
+C:\Best\Unity Project\SurvivalGame\obj\Debug\PackageToolsEditor.csprojAssemblyReference.cache
+C:\Best\Unity Project\SurvivalGame\obj\Debug\PackageToolsEditor.csproj.CoreCompileInputs.cache
